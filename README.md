@@ -1,3 +1,3 @@
 # FlagWar
 
-### `Simple` `Easy` Online Game
+### `Simple``Easy` Online Game
